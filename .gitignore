@@ -1,0 +1,8 @@
+/node_modules/**
+/config/keys.js
+.env
+server/index.js
+/Automation/lib/**
+/Automation/log/**
+/Automation/reports/**
+/Automation/node_modules
